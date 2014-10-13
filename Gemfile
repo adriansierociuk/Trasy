@@ -39,3 +39,6 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+
+gem 'execjs'
+gem 'therubyracer', :platforms => :ruby
