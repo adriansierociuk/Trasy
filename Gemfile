@@ -42,3 +42,5 @@ gem 'spring',        group: :development
 
 gem 'execjs'
 gem 'therubyracer', :platforms => :ruby
+gem 'bootstrap-sass'
+gem 'spockets'
